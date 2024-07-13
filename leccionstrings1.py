@@ -1,0 +1,5 @@
+#print("hola"+" tu")
+#print("me llamo \"esteban\"")
+#print("esta es una linea\ny esto es otra linea")
+print("linea 1\nlinea 2\nlinea 3\n\ta\tb\tc\n\td\te\tf\n\tg\th\ti")
+#print("primero\nsegundo\ntercero\n\t1\t2\t3\n\t4\t5\t6")

@@ -1,0 +1,5 @@
+print("\nAntes de empezar ingresa los siguientes datos:\n")
+print("\nbienvenid@ " + input("Su nombre: ") + " a tus " + input("Su edad: ") + " años de edad estas a punto de empezar esta aventura\n")
+numero = int(input("digite un numero: "))
+print(f"\n\tel doble de su número es: {numero * 2}\n")
+print(type(numero))
